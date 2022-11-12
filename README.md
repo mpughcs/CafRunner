@@ -1,22 +1,13 @@
-﻿1.) Identifying Information
-  a. Full Name: Max Pugh,
-  b. Student ID: 2354296
-  c. Chapman email: mpugh@chapman.edu
-  d. Course number and section: 236-02
-  e. Assignment Number: Final Project
+﻿**CafRunner** is a 2D platformer game where the player controls a student who is trying to make it to the cafeteria before it closes at the ungodly hour of 6:00 pm. The player must avoid the jocks on campus and collect powerups and keys to unlcok the cafeteria doors. The game was started for my visual programming class at Chapman University and was complete independantly by me. The game was made using the Unity game engine and C#.
 
-2.) List of source files submitted
-  a. FinalProject.zip
-
-3.) Description of any known compile/runtime errors, or bugs.
-- Runtime throws errors having to do with deleted scripts that no longer exists, does not effect gameplay
-- sometimes moving platforms will get stuck
-- collisions sometimes clip
+<!-- add gifs of gameplay -->
+![](https://github.com/mpuhg/CafRunner/blob/main/mountDoom.gif)
 
 
 
 
-4.) References used to complete the assignment
+
+### References used to complete the assignment
   a. unity docs
   b. Previous Projects
   c. https://www.youtube.com/watch?v=pbTysQw-WNs (for clock)
