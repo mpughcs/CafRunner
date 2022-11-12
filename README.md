@@ -1,6 +1,7 @@
 ﻿**CafRunner** is a 2D platformer game where the player controls a student who is trying to make it to the cafeteria before it closes at the ungodly hour of 6:00 pm. The player must avoid the jocks on campus and collect powerups and keys to unlcok the cafeteria doors. The game was started for my visual programming class at Chapman University and was complete independantly by me. The game was made using the Unity game engine and C#.
 
-<!-- add gifs of gameplay -->
+![](https://github.com/mpuhg/CafRunner/blob/main/start%20(2).gif)
+
 ![](https://github.com/mpuhg/CafRunner/blob/main/mountDoom.gif)
 
 
